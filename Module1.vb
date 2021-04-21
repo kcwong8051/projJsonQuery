@@ -3,6 +3,10 @@ Imports System.IO
 Imports Newtonsoft.Json
 'Imports System.Xml.Linq
 
+'Reference: 
+'https://www.geoffstratton.com/vbnet-basic-json-and-linq
+'https://dotblogs.com.tw/terrychuang/2012/04/05/71297
+
 Module Module1
 
     Sub Main()
